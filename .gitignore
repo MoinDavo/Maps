@@ -3,3 +3,4 @@ required_modules.txt
 .ipynb_checkpoints/
 GPSLOG/
 SNSLOG/
+__pycache__

@@ -4,3 +4,4 @@ required_modules.txt
 GPSLOG/
 SNSLOG/
 __pycache__
+.env
